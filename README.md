@@ -1,10 +1,10 @@
 # light-physics
 
-Two aspects of light
+## Two aspects of light
 
 We see and experience light every day; it’s always around us and helps us see things. But understanding what light really is can be quite complex and needs a lot of advanced science. In this chapter, we will explain the most important ideas about light that we need for studying radiation ecology, without getting too technical.
 
-Light is electromagnetic wave
+## Light is electromagnetic wave
 
 Light can be thought of in two main ways. One way is as a "wave in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength.
 
@@ -14,7 +14,7 @@ ${\bf F} = q {\bf E} + q {\bf v} \times {\bf B}$
 
 where, ${\bf F}$ is the force on the particle, ${\bf E}$ is the electric field, ${\bf B}$ is the magnetic flux density (an expression of magnetic field), $q$ is the electric charge of the particle, and ${\bf v}$ is the velocity of the particle. The symbol "$\times$x" means "vector product" which you can find its definition and meaning in a mathematics textbook. This equation is the fundamental fact which defines the two fields, so that we do not need to worry about why they work this way. 
 
-Light is photons
+## Light is photons
 
 Another way to think about light is as a "particle produced by the electromagnetic field." The particle is called "photon". Unlike particles we usually think of, like tiny bits of dust, a photon is a much more abstract concept. It is not a normal particle but a special kind of object known as a "quantum." It is an idea of "quantum physics", which mainly treats objects too small to be treated by the physics of our daily life (so called Newtonian dynamics). 
 
@@ -25,7 +25,7 @@ In case of the electromagnetic field's energy, the eigenvalue of its "liner oper
 You may feel it's too abstract to understand, but it's ok. It's too much for human's intelligence to imagine a perfect picture of a photon. In many cases you may imagine them as tiny balls, but you should remember that sometimes this imagination is invalid. It's enough.
 
 
-Sinusoidal wave and spectrum
+## Wave is superposition of sinusoidal waves.
 
 For the moment, let's consider light as a type of wave. When it comes to wave, most physics textbooks mention "sinusoidal wave", which is described by the trigonometric functions: cos⁡(x) and sin(x). These functions repeat the same "up and down" pattern over and over again, meaning they are "periodic."
 
@@ -48,7 +48,7 @@ Because we can choose any wave patterns for ${\bf E}_1, {\bf E}_2, {\bf E}_3,…
 Therefore, once we are successful to get understanding and descrption and prediction of sinusoidal light waves, we can use them for arbitrary patterns of light. Then the scalars $a_1, a_2, ... a_n$ tell us the contribution of each wavelength of sibnusoidal light wave. This is called a "spectrum." 
 
 
-Three optics
+## Three optics
 
 When we talk about how light behaves, we usually use one of three approaches: geometrical optics, wave optics, or quantum optics. In geometrical optics, we think of light as traveling in straight lines. In wave optics, we treat light as a wave that spreads out in space. In quantum optics, we look at light as a group of photons.
 
@@ -63,3 +63,15 @@ You might then ask, "How are permittivity and permeability determined?" They are
 The three types of optics—geometrical, wave, and quantum—overlap, but they use different ways to describe light. In other words, they are different models of light. Geometrical optics is useful for tracing how light travels through space involving reflection, absorption, and transmission at the boundary or inside of big objects. However, it is not accurate if the light's wavelength is as large as the the objects (or the objects are as small as the wavelength of light). In those cases, we need wave optics, which is more complex because it involves tracking the light wave’s "phase" (we'll learn about that later).
 
 The quantum optics is necessary if we deeply analyze the interaction of the light with materials involving the transition of energy and/or angular momentum, such as "thermal radiation", "Rayleigh scattering", "Mie scattering", "Raman scattering", "fluorescence", and so on.
+
+## Generation of light
+How does light happen? According to the wave optics, light happens when an electric charge moves with non-zero
+acceleration. For example, if an electron is moving around a circle, it emits light. It is the principle of "synchrotron radiation". According to the quantum optics, a photon (the element of light in the quantum mechanics' perspective) happens when a system change its energy from a level to some lower level.
+
+## Thermal radiation
+In ecology, The most important process of light generation is perhaps "thermal radiation" (or "thermal emission"). It says, depending on its temperature, every object emits light. For example, because the sun is an object, it emits light depending on its temperaturre. It is the sunlight. 
+
+If an object's temperature is high, the constituent particles of the objects are in high-energy states. They may sometimes transit to lower states, yielding photons. It is the source of the thermal radiation. In case of 
+
+Because energy of the photon is inversely proportional to the wavelength, 
+
