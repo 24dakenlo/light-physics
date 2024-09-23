@@ -25,6 +25,17 @@ In case of the electromagnetic field's energy, the eigenvalue of its "liner oper
 You may feel it's too abstract to understand, but it's ok. It's too much for human's intelligence to imagine a perfect picture of a photon. In many cases you may imagine them as tiny balls, but you should remember that sometimes this imagination is invalid. It's enough.
 
 
+## Principle of superposition
+
+Regardless of the aspect, ligh has a very important property called "principle of superposition". It is a general idea which can be applied to many phenomena other than light, but we only mention about light here. The "principle of superposition" says "every light is considered as a superposition of many other lights". The reason of validity of this principle stands from "linearity" of the fundamental theory of light (so called Maxwell equation or the quantum physics). "Superposition" is a technical word in physics. It is like "combination" or "mixture". Let's look at an example. 
+
+We imagine several different light waves existing in a same space. We will call electric field of the light waves as ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. ${\bf E}_i$ describes electric field produced by the $i$-th wave. ${\bf E}_i$ is a function of time and place. Then a new light wave can be created by combining (superpositioning) these waves like this:
+
+${\bf E} = a_1 {\bf E}_1 + a_2 {\bf E}_2 + ... + a_n {\bf E}_n$
+
+Here, ${\bf E}$ is (the electric field of) the new light wave, and it is made up of the original waves ${\bf E}_1$, ${\bf E}_2$, …, ${\bf E}_n$, with each wave multiplied by a certain number (called a scalar) a1, a2,…, an. This form (multiplying things by scalars and summing up them) is exactly called "superposition" in physics, or "linear combination" in mathematics. 
+
+
 ## Wave is superposition of sinusoidal waves.
 
 For the moment, let's consider light as a type of wave. When it comes to wave, most physics textbooks mention "sinusoidal wave", which is described by the trigonometric functions: cos⁡(x) and sin(x). These functions repeat the same "up and down" pattern over and over again, meaning they are "periodic."
@@ -35,13 +46,7 @@ However, sinusoidal waves are just one type of waves. There are various wave pat
 
 But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because of two important concepts: "principle of superposition" and "Fourier analysis" which we learn from now on.
 
-The "principle of superposition" says "every pattern of wave is considered as a superposition of other waves". This principle stands only if the waves' dynamics satisfies a feature called "linearity" and light wave is one of them. "Superposition" is a technical word in physics. It is like "combination" or "mixture". Let's look at an example. 
 
-We imagine several different light waves existing in a same space. We will call electric field of the light waves as ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. ${\bf E}_i$ describes electric field produced by the $i$-th wave. ${\bf E}_i$ is a function of time and place. Then a new light wave can be created by combining (superpositioning) these waves like this:
-
-${\bf E} = a_1 {\bf E}_1 + a_2 {\bf E}_2 + ... + a_n {\bf E}_n$
-
-Here, ${\bf E}$ is (the electric field of) the new light wave, and it is made up of the original waves ${\bf E}_1$, ${\bf E}_2$, …, ${\bf E}_n$, with each wave multiplied by a certain number (called a scalar) a1, a2,…, an. This form (multiplying things by scalars and summing up them) is exactly called "superposition" in physics, or "linear combination" in mathematics. 
 
 Because we can choose any wave patterns for ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$ for this equation, we can pick sinusoidal wave patterns with different wavelength for ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. This is the idea of "Fourier analysis". In other words, Fourier analysis is creating a wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. The magic of this idea is, virtually any shapes of waves can be described in this way. It is too much to prove its reason here (Please refer to a mathematics textbook if you are interested).
 
@@ -77,4 +82,13 @@ In ecology, The most important process of light generation is perhaps "thermal r
 If an object's temperature is high, the constituent particles of the objects are in high-energy states. They may sometimes transit to lower states, yielding photons. It is the source of the thermal radiation. In case of 
 
 Because energy of the photon is inversely proportional to the wavelength, 
+
+
+## Polarization
+
+## Refraction
+
+
+
+
 
