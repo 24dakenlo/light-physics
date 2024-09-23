@@ -12,7 +12,7 @@ So, what is the "electromagnetic field"? It is a basic feature of space that inc
 
 ${\bf F} = q {\bf E} + q {\bf v} \times {\bf B}$
 
-where, ${\bf F}$ is the force on the particle, ${\bf E}$ is the electric field, ${\bf B}$ is the magnetic flux density (an expression of magnetic field), $q$ is the electric charge of the particle, and ${\bf v}$ is the velocity of the particle. The symbol "$\times$x" means "vector product" which you can find its definition and meaning in a mathematics textbook. This equation is the fundamental fact which defines the two fields, so that we do not need to worry about why they work this way. 
+where, ${\bf F}$ is the force on the particle, ${\bf E}$ is the electric field, ${\bf B}$ is the magnetic flux density (an expression of magnetic field), $q$ is the electric charge of the particle, and ${\bf v}$ is the velocity of the particle. The symbol $\times$ means "vector product" which you can find its definition and meaning in a mathematics textbook. This equation is the fundamental fact which defines the two fields, so that we do not need to worry about why they work this way. 
 
 ## Light is photons
 
@@ -27,30 +27,28 @@ You may feel it's too abstract to understand, but it's ok. It's too much for hum
 
 ## Principle of superposition
 
-Regardless of the aspect, ligh has a very important property called "principle of superposition". It is a general idea which can be applied to many phenomena other than light, but we only mention about light here. The "principle of superposition" says "every light is considered as a superposition of many other lights". The reason of validity of this principle stands from "linearity" of the fundamental theory of light (so called Maxwell equation or the quantum physics). "Superposition" is a technical word in physics. It is like "combination" or "mixture". Let's look at an example. 
+Regardless of the aspect, ligh has a very important and useful property called "principle of superposition". It is a general idea which can be applied to many phenomena other than light, but we only mention about light here. The "principle of superposition" says "light can be considered as a superposition of many other lights". "Superposition" is a technical word in physics. It is like "combination" or "mixture". Let's look at an example. 
 
 We imagine several different light waves existing in a same space. We will call electric field of the light waves as ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. ${\bf E}_i$ describes electric field produced by the $i$-th wave. ${\bf E}_i$ is a function of time and place. Then a new light wave can be created by combining (superpositioning) these waves like this:
 
 ${\bf E} = a_1 {\bf E}_1 + a_2 {\bf E}_2 + ... + a_n {\bf E}_n$
 
-Here, ${\bf E}$ is (the electric field of) the new light wave, and it is made up of the original waves ${\bf E}_1$, ${\bf E}_2$, …, ${\bf E}_n$, with each wave multiplied by a certain number (called a scalar) a1, a2,…, an. This form (multiplying things by scalars and summing up them) is exactly called "superposition" in physics, or "linear combination" in mathematics. 
+Here, ${\bf E}$ is (the electric field of) the new light wave, and it is made up of the original waves ${\bf E}_1$, ${\bf E}_2$, …, ${\bf E}_n$, with each wave multiplied by a certain number (called a scalar) $a_1, a_2,…, a_n$. This form (multiplying things by scalars and summing up them) is exactly called "superposition" in physics, or "linear combination" in mathematics. If you learn the fundamental theories of light, you would find that the any linear combination of lights also satisfies the theory. It is the reason why this principle is valid for light.
 
 
 ## Wave is superposition of sinusoidal waves.
 
-For the moment, let's consider light as a type of wave. When it comes to wave, most physics textbooks mention "sinusoidal wave", which is described by the trigonometric functions: cos⁡(x) and sin(x). These functions repeat the same "up and down" pattern over and over again, meaning they are "periodic."
+For the moment, let's consider light as a wave. The most physics textbooks mention "sinusoidal wave", which is described by the trigonometric functions: cos⁡(x) and sin(x). These functions repeat the same "up and down" pattern over and over again, meaning they are "periodic."
 
 (figure of sinusoidal wave)
 
-However, sinusoidal waves are just one type of waves. There are various wave patterns which are not sinusoidal. A wave is a pattern that moves through space. The "pattern" can be mostly any shapes you can imagine, like a pulse, a bell shape, or sinusoidal. For light, a flash of light is like a pulse pattern of the electromagnetic field moving through space. 
+However, sinusoidal waves are just one type of waves. A wave is not have to be sinusoidal. Any patterns that moves through space can be a wave. The "pattern" can be mostly any shapes you can imagine, like a pulse, a bell shape, or sinusoidal. For instance, a flash light is like a pulse pattern moving through space. 
 
-But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because of two important concepts: "principle of superposition" and "Fourier analysis" which we learn from now on.
+But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because sinusoidal light wave can be so simple that its treatment is easy and straightforward. Moreover, by using the afforementioned "principle of superposition", we can describe any pattern of light waves by superposition of sinusoidal waves. This idea is called "Fourier analysis". Fourier analysis is creating a wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. Surprisingly, mathematicians have proved that virtually any shapes of waves can be described in this way (Please refer to a mathematics textbook if you are interested).
 
+## Spectrum
 
-
-Because we can choose any wave patterns for ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$ for this equation, we can pick sinusoidal wave patterns with different wavelength for ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. This is the idea of "Fourier analysis". In other words, Fourier analysis is creating a wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. The magic of this idea is, virtually any shapes of waves can be described in this way. It is too much to prove its reason here (Please refer to a mathematics textbook if you are interested).
-
-Therefore, once we are successful to get understanding and descrption and prediction of sinusoidal light waves, we can use them for arbitrary patterns of light. Then the scalars $a_1, a_2, ... a_n$ tell us the contribution of each wavelength of sibnusoidal light wave. This is called a "spectrum." 
+Therefore, the main target of physics of light can be sinusoidal lights or their superposition. By taking advantages of this idea, you may imagine sinusoidal pattern in many stories about light. If you need to consider more complicated cases, you can imagine the equation of superposition using sinusoidal lights as ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. Then the scalars $a_1, a_2, ... a_n$ tell us the contribution of each wavelength of sibnusoidal light wave. This is called a "spectrum." 
 
 
 ## Three optics
