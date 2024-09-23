@@ -44,11 +44,17 @@ For the moment, let's consider light as a wave. The most physics textbooks menti
 
 However, sinusoidal waves are just one type of waves. A wave is not have to be sinusoidal. Any patterns that moves through space can be a wave. The "pattern" can be mostly any shapes you can imagine, like a pulse, a bell shape, or sinusoidal. For instance, a flash light is like a pulse pattern moving through space. 
 
-But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because sinusoidal light wave can be so simple that its treatment is easy and straightforward. Moreover, by using the afforementioned "principle of superposition", we can describe any pattern of light waves by superposition of sinusoidal waves. This idea is called "Fourier analysis". Fourier analysis is creating a wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. Surprisingly, mathematicians have proved that virtually any shapes of waves can be described in this way (Please refer to a mathematics textbook if you are interested).
+But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because sinusoidal light wave can be so simple that its treatment is easy and straightforward. Moreover, by using the afforementioned "principle of superposition", we can describe any pattern of light waves by superposition of sinusoidal waves. And surprisingly, mathematicians have proved that virtually any shapes of waves can be described in this way.
 
-## Spectrum
 
-Therefore, the main target of physics of light can be sinusoidal lights or their superposition. By taking advantages of this idea, you may imagine sinusoidal pattern in many stories about light. If you need to consider more complicated cases, you can imagine the equation of superposition using sinusoidal lights as ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$. Then the scalars $a_1, a_2, ... a_n$ tell us the contribution of each wavelength of sibnusoidal light wave. This is called a "spectrum." 
+## Fourier analysis and Spectrum
+
+This idea is called "Fourier analysis". Fourier analysis is creating a wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. 
+Therefore, the main target of physics of light can be sinusoidal lights or their superposition. By taking advantages of this idea, you may imagine sinusoidal pattern in many stories about light. If you need to consider more complicated cases, you can imagine the equation of superposition using sinusoidal lights as ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$ with various wavelength. Then what matters is the coefficients $a_1, a_2, ... a_n$ which tell us the contribution of each wavelength of sibnusoidal light wave. They describe the amplitude of each sinusoidal wave. In many cases we are interested in their squared values because the energy of light is proportional to the square of its amplitude. The graph of the wavelength (x-axis) and square of the amplitudes of the sinusoidal waves with that wavelength is called a "spectrum." 
+
+The spectrum is a very common way of describing phenomena of light. For instance, the spectrum of the sunlight is as follows (Figure):
+
+We can see the sunlight consists of various wavelength of sinuspidal lights. Particularly, the graph has a peak in between 400 nm to 700 nm. It means that a big portion of energy of the sunlight comes from the sinusoidal waves with wavelength in between 400 nm and 700 nm. This category of light is called "visible light" because our human eyes can sense them. Coincidentally, they are "photosynthetically active radiation" which activates photosynthesys in many of the terrestrial plants. 
 
 
 ## Three optics
