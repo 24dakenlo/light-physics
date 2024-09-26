@@ -35,7 +35,7 @@ ${\bf E} = a_1 {\bf E}_1 + a_2 {\bf E}_2 + ... + a_n {\bf E}_n$
 Here, ${\bf E}$ is (the electric field of) the new light wave, and it is made up of the original waves ${\bf E}_1$, ${\bf E}_2$, …, ${\bf E}_n$, with each wave multiplied by a certain number (called a scalar) $a_1, a_2,…, a_n$. This form (multiplying things by scalars and summing up them) is exactly called "superposition" in physics, or "linear combination" in mathematics. If you learn the fundamental theories of light, you would find that the any linear combination of lights also satisfies the theory. It is the reason why this principle is valid for light.
 
 
-## Wave is superposition of sinusoidal waves (Fourier analysis)
+## Fourier analysis
 
 For the moment, let's consider light as a wave. The most physics textbooks mention "sinusoidal wave", which is described by the trigonometric functions: cos⁡(x) and sin(x). These functions repeat the same "up and down" pattern over and over again, meaning they are "periodic."
 
@@ -43,32 +43,43 @@ For the moment, let's consider light as a wave. The most physics textbooks menti
 
 However, sinusoidal waves are just one type of waves. A wave is not have to be sinusoidal. Any patterns that moves through space can be a wave. The "pattern" can be mostly any shapes you can imagine, like a pulse, a bell shape, or sinusoidal. For instance, a flash light is like a pulse pattern moving through space. 
 
-But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because sinusoidal light wave can be so simple that its treatment is easy and straightforward. Moreover, by using the afforementioned "principle of superposition", we can describe any pattern of light waves by superposition of sinusoidal lights. And surprisingly, mathematicians have proved that virtually any shapes of waves can be described in this way. This idea and theory is called "Fourier analysis". It is creating an arbitrary wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. 
+But still, sinusoidal wave concepts are useful enough to describe and understand light waves. Why? Because sinusoidal light wave is so simple that its treatment is easy and straightforward. Moreover, by using the afforementioned "principle of superposition", we can describe any pattern of light waves by superposition of sinusoidal lights. And surprisingly, mathematicians have proved that virtually any shapes of waves can be described in this way. This idea and theory is called "Fourier analysis". It is creating an arbitrary wave (or decomposing a wave) by superposition of sinusoidal waves with various wavelength. 
 
-Hereafter, we may call a sinusoidal light as a "monochromatic light". It means "light with a single wavelength". The word "monochromatic" consists of "mono" meaning "single" and "chrome" meaning "color". Why color? You would understand soon later. 
+Hereafter, we may call a sinusoidal light as a "monochromatic light". It means "light with a single wavelength". The word "monochromatic" consists of "mono" meaning "single" and "chrome" meaning "color". Why color? You would understand later soon. 
 
 
 ## Spectrum
 
-By using Fourier analysis, we may consider light as superposition of monochromatic lights with various wavelength. Therefore, we may simply focus on understanding the monochromatic light. If we need to consider more complicated cases, you can imagine the superposition of monochromatic lights ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$ with various wavelength $\lambda_1, \lambda_2, ..., \lambda_n$. Then what matters is the coefficients $a_1, a_2, ... a_n$ which tell us the contribution of the monochromatic lights. In other words, each of $a_1, a_2, ... a_n$ describes the amplitude of each monochromatic light. In many cases we are interested in their squared values because the energy of light is proportional to the square of its amplitude. The graph of the wavelength (x-axis) and square of the amplitudes of the monochromatic lights is called a "spectrum." 
+By using Fourier analysis, we may consider light as superposition of monochromatic lights with various wavelength. Therefore, we may simply focus on understanding the monochromatic light. If we need to consider more complicated cases, we can imagine the superposition of monochromatic lights ${\bf E}_1, {\bf E}_2, {\bf E}_3,…, {\bf E}_n$ with various wavelength $\lambda_1, \lambda_2, ..., \lambda_n$. Then what matters next is the coefficients $a_1, a_2, ... a_n$ which tell us the contribution of the monochromatic lights. In other words, each of $a_1, a_2, ... a_n$ describes the amplitude of each monochromatic light. In many cases we are interested in their squared values because the energy of light is proportional to the square of its amplitude. The graph of the wavelength (x-axis) and square of the amplitudes of the monochromatic lights is called a "spectrum." 
 
-The spectrum is a very common way of describing phenomena of light. For instance, the spectrum of the sunlight is as follows (Figure):
+The spectrum is a very common way of describing phenomena of light so that we should be familiar with it. For instance, the spectrum of the sunlight is as follows (Figure):
 
 We can see the sunlight consists of various wavelength of sinuspidal lights. Particularly, the graph has a peak in between 400 nm to 700 nm. It means that a big portion of energy of the sunlight comes from the sinusoidal waves with wavelength in between 400 nm and 700 nm. This category of light is called "visible light" because our human eyes can sense them. Coincidentally, they are "photosynthetically active radiation" which activates photosynthesys in many of the terrestrial plants. 
+
 
 ## Color of light
 
 The color sense of human's vision is essentially related to the spectrum. In short, if a spectrum of light is given, we can predict its color. How? The human's eyes have three different types of color-sensing cells called "cones". The brain recognizes colors by the signals from these three types of cones, namely, "S-cones", "M-cones", and "L-cones", as blue color, green color, and red color, respectively. The intensity of the response of each type of cone depends on the light's spectrum: If the dominant wavelength are 400 nm in the spectrum, the S-cones' response is big and other cones' response is small, resulting in the recognition of blue by the brain. If the light's spectrum consists of multiple peaks or broad range of wavelength, all the S-, M-, and L-cones responds differently and the color is a mixture of blue, green, and red, resulting in a huge variation of possible colors. 
 
-The human's vision takes place in response to the light called "visible light", whose wavelength is in between about 400 nm and about 700 nm. Our eyes cannot detect light whose wavelength is outside this range. It is because the cones in human's eyes do not respond to such light. Therefore, if some animals have different types of cones from human, they may be able to see light which is invisible for human. In fact, birds and some insects have cones which respond to light shorter that our visible light. 
+Ad I wrote, the human's vision takes place in response to the light called "visible light", whose wavelength is in between about 400 nm and about 700 nm. Our eyes cannot detect light whose wavelength is outside this range. It is because the cones in human's eyes do not respond to such light. Therefore, if some animals have different types of cones from human, they may be able to see light which is invisible for human. In fact, birds and some insects have cones which respond to light shorter that our visible light. 
 
 I explained that a spectrum decides color of the light. Interestingly, the reverse story is invalid. Namely, a color does not decide lights' spectrum. In other words, lights with different spectrum can have a same color. Let's understand it by an example: suppose a light with a spectrum of double peaks at 550 nm (stimulating M-cones) and 680 nm (stimulating L-cones). Then the color is a mixture of green (response by M-cones) and red (response by L-cones), which is yellow. On the other hand, suppose a light with a single peak around 610 nm. To some extent, both M-cones and L-cones repond to this wavelength, resulting in the the color of a mixture of green and red, which is yellow which is the same as the previous example.
 
-Nonetheless, we may discuss spectrum in a context of colors for convenience. In particular, we descrive monochromatic visible ligh not only by wavelength but also its color in an order of shorter wavelength to longer wavelength as follows: violet, purple, blue, green, yellow, orange, red. It is not a coincident that this order is the same as the order of colors in a rainbow. In fact, rainbow is a collection of concentric arcs of monochromatic lights: the inside arc is shorter light (violet or blue) and the outside arc is longer light (red). It is a good idea to memorize this order of colors because it helps us understand and imagine the phenomena of light in terms of wavelengths.
+Nonetheless, we may discuss spectrum in a context of colors for convenience. In particular, we describe monochromatic visible ligh not only by wavelength but also its color in an order of shorter wavelength to longer wavelength as follows: violet, purple, blue, green, yellow, orange, red. It is not a coincident that this order is the same as the order of colors in a rainbow. In fact, rainbow is a collection of concentric arcs of monochromatic lights: the inside arc is shorter light (violet or blue) and the outside arc is longer light (red). It is a good idea to memorize this order of colors because it helps us understand and imagine the phenomena of light in terms of wavelengths.
 
-Quantum features of a photon
 
-Suppose we consider a monochromatic light 
+## Categories of light
+
+The light which human's eyes can detect, or visible light, occupies only a very narrow range of wavelength. In fact, lights' wavelength can be much shorter or longer than them. From short to long, we can call lights as: gamma-ray, X-ray, ultraviolet (UV), visible light, infrared light, microwave, .... These cateories do not have reasonably clear boundaries with each other. Actually, the wavelength of light can take positive values arbitrarily and continuously. Nonetheless, it is convenient to categorize light into these groups because the features and behaviours of light depends on the scale of wavelength so strongly that we may need to consider a different model for each of them. For example, interaction of light and a plant leaf is very different between visible light, and microwave: visible light can be largely absorbed or reflected by the leaf, while microwave may have little interaction with the leaf. The important lesson for us is:
+- Light is not necessarily visible to human's eyes. There is a broan range of invisible light and they are also important for ecology.
+- Color is a feature of visible light only. There is no color for invisible light.
+- Nevertheless, the idea of monochromatic light can be applied to the invisible light, too. It simply means "ligh with a single wavelength".
+
+
+## Features of monochromatic light
+
+Now we should understand feature of monochromatic light. Suppose we consider a monochromatic light 
+
 The most important fact of photons is relation between the energy $E$, frequency $\nu$, wavelength $\lambda$,  of a single photon $E$ is 
 
 
