@@ -58,7 +58,12 @@ The spectrum is a very common way of describing phenomena of light so that we sh
 We can see the sunlight consists of various wavelength of sinuspidal lights. Particularly, the graph has a peak in between 400 nm to 700 nm. It means that a big portion of energy of the sunlight comes from the sinusoidal waves with wavelength in between 400 nm and 700 nm. This category of light is called "visible light" because our human eyes can sense them. Coincidentally, they are "photosynthetically active radiation" which activates photosynthesys in many of the terrestrial plants. 
 
 
-## Color of light
+## Categories of light
+
+As I wrote, the wange of wavelength of visible light, or the light human's eyes can detect, is between 400 nm to 700 nm. Although it occupies a big portion of solar light, it is a very narrow and limitted category of light in nature. In fact, lights' wavelength can be much shorter or longer than them. From short to long, we can call lights as: gamma-ray, X-ray, ultraviolet (UV), visible light, infrared light, microwave, .... These cateories do not have reasonably clear boundaries with each other. Actually, the wavelength of light can take positive values arbitrarily and continuously. Nonetheless, it is convenient to categorize light into these groups because the features and behaviours of light depends on the scale of wavelength so strongly that we may need to consider a different model for each of them. For example, interaction of light and a plant leaf is very different between visible light and microwave: visible light can be largely absorbed or reflected by the leaf, while microwave may have little interaction with the leaf.
+
+
+## Colors of visible light
 
 The color sense of human's vision is essentially related to the spectrum. In short, if a spectrum of light is given, we can predict its color. How? The human's eyes have three different types of color-sensing cells called "cones". The brain recognizes colors by the signals from these three types of cones, namely, "S-cones", "M-cones", and "L-cones", as blue color, green color, and red color, respectively. The intensity of the response of each type of cone depends on the light's spectrum: If the dominant wavelength are 400 nm in the spectrum, the S-cones' response is big and other cones' response is small, resulting in the recognition of blue by the brain. If the light's spectrum consists of multiple peaks or broad range of wavelength, all the S-, M-, and L-cones responds differently and the color is a mixture of blue, green, and red, resulting in a huge variation of possible colors. 
 
@@ -69,9 +74,22 @@ I explained that a spectrum decides color of the light. Interestingly, the rever
 Nonetheless, we may discuss spectrum in a context of colors for convenience. In particular, we describe monochromatic visible ligh not only by wavelength but also its color in an order of shorter wavelength to longer wavelength as follows: violet, purple, blue, green, yellow, orange, red. It is not a coincident that this order is the same as the order of colors in a rainbow. In fact, rainbow is a collection of concentric arcs of monochromatic lights: the inside arc is shorter light (violet or blue) and the outside arc is longer light (red). It is a good idea to memorize this order of colors because it helps us understand and imagine the phenomena of light in terms of wavelengths.
 
 
-## Categories of light
+## Colors of objects
 
-The light which human's eyes can detect, or visible light, occupies only a very narrow range of wavelength. In fact, lights' wavelength can be much shorter or longer than them. From short to long, we can call lights as: gamma-ray, X-ray, ultraviolet (UV), visible light, infrared light, microwave, .... These cateories do not have reasonably clear boundaries with each other. Actually, the wavelength of light can take positive values arbitrarily and continuously. Nonetheless, it is convenient to categorize light into these groups because the features and behaviours of light depends on the scale of wavelength so strongly that we may need to consider a different model for each of them. For example, interaction of light and a plant leaf is very different between visible light, and microwave: visible light can be largely absorbed or reflected by the leaf, while microwave may have little interaction with the leaf. The important lesson for us is:
+In the previous section, we discussed about colors of lights. Now we discuss about colors of things (objects). They are similar but different ideas which we need to distinguish carefully. For example, let's imagine the green traffic light and a plant's green leaf. The difference is, the traffic light is shyning by itself but the plant's leaf is not. Because color is a feature of light, we cannot discuss color of the leaf unless considering light source which illuminates the leaf. The color or leaf is, in fact, discussed in relation to the color of light which is scattered by the leaf. Then something strange may happen: if the light is originally red, containing little light which stimulates M-cones (which gives response of green), the reflected light can be also red. 
+
+plants' leaf "scatters" green light stronger than other lights (red and blue). 
+
+simple: the response of our eyes' cones give signals of green in response to the lights' spectrum. 
+
+
+
+some more about colors. Colors 
+absorption
+reflection
+color of shadow
+
+ The important lesson for us is:
 - Light is not necessarily visible to human's eyes. There is a broan range of invisible light and they are also important for ecology.
 - Color is a feature of visible light only. There is no color for invisible light.
 - Nevertheless, the idea of monochromatic light can be applied to the invisible light, too. It simply means "ligh with a single wavelength".
