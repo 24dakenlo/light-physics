@@ -10,7 +10,7 @@ Light can be thought of in two main ways. One way is as a "wave in the electroma
 
 So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist. The electric field and the magnetic field exert forces on electrically charged particles such as electrons. The force from electric field is independent of the particle's velocity, whereas the force from magnetic field depends on the particle's velocity. More precisely, this relationship is described by the equation:
 
-${\bf F} = q {\bf E} + q {\bf v} \times {\bf B}$
+${\bf F} = q {\bf E} + q {\bf v} \times {\bf B}$    (1.1)
 
 where, ${\bf F}$ is the force on the particle, ${\bf E}$ is the electric field, ${\bf B}$ is the magnetic flux density (an expression of magnetic field), $q$ is the electric charge of the particle, and ${\bf v}$ is the velocity of the particle. The symbol $\times$ means "vector product" which you can find its definition and meaning in a mathematics textbook. This equation is the fundamental fact which defines the two fields, so that we do not need to worry about why they work this way. 
 
@@ -20,10 +20,9 @@ Another way to think about light is as a "particle produced by the electromagnet
 
 The main idea in quantum physics is that properties such as energy, momentum, and angular momentum are impossible to determine in many cases. Instead, they are described by something called a "linear operator." The value of these properties is not definite unless the system is in a special state called an "eigenstate," where the value is equal to something called the "eigenvalue."
 
-In case of the electromagnetic field's energy, the eigenvalue of its "liner operator" (called "Hamiltonian operator") is related to a non-negative integer n. We understand this integer n as the number of photons. In other words, we recognize the eigen state of electromagnetic field's energy as "there are n photons in the space". 
+In case of the electromagnetic field's energy, the eigenvalue of its "liner operator" (called "Hamiltonian operator") is related to a non-negative integer $n$. We understand this integer $n$ as the number of photons. In other words, we recognize the eigen state of electromagnetic field's energy as "there are $n$ photons in the space". 
 
-You may feel it's too abstract to understand, but it's ok. It's too much for human's intelligence to imagine a perfect picture of a photon. In many cases you may imagine them as tiny balls, but you should remember that sometimes this imagination is invalid. It's enough.
-
+You may feel it is too abstract to understand, but it's ok. It's too much for human's intelligence to imagine a perfect picture of a photon. In many cases you may imagine them as tiny balls, but you should remember that sometimes this imagination is invalid. It's enough.
 
 ## Principle of superposition
 
@@ -56,12 +55,29 @@ The spectrum is a very common way of describing phenomena of light. For instance
 
 We can see the sunlight consists of various wavelength of sinuspidal lights. Particularly, the graph has a peak in between 400 nm to 700 nm. It means that a big portion of energy of the sunlight comes from the sinusoidal waves with wavelength in between 400 nm and 700 nm. This category of light is called "visible light" because our human eyes can sense them. Coincidentally, they are "photosynthetically active radiation" which activates photosynthesys in many of the terrestrial plants. 
 
+## Color of light
+
+The color sense of human's vision is essentially related to the spectrum. In short, if a spectrum of light is given, we can predict its color. How? The human's eyes contain three 
+
+The human's eyes have three different types of color-sensing cells called "cones". The brain recognizes the signals from these three types of cones, namely, "S-cones", "M-cones", and "L-cones", as blue color, green color, and red color, respectively. The intensity of the response of each type of cone depends on the light's spectrum: If the dominant wavelength are 400 nm in the spectrum, the S-cones' response is big and other cones' response is small, resulting in the recognition of blue by the brain. If the light's spectrum consists of multiple peaks or broad range of wavelength, all the S-, M-, and L-cones responds differently and the color is a mixture of blue, green, and red, resulting in a huge variation of possible colors. 
+
+The human's vision takes place in response to the light called "visible light", whose wavelength is in between about 400 nm and about 700 nm. Our eyes cannot detect light whose wavelength is outside this range. It is because the cones in human's eyes do not respond to such light. Therefore, if some animals have different types of cones from human, they may be able to see light which is invisible for human. In fact, birds and some insects have cones which respond to light shorter that our visible light. 
+
+I explained that a spectrum decides color of the light. Interestingly, the reverse story is invalid. Namely, a color does not decide lights' spectrum. In other words, lights with different spectrum can have a same color. Let's understand it by an example: suppose a light with a spectrum of double peaks at 550 nm (stimulating M-cones) and 680 nm (stimulating L-cones). Then the color is a mixture of green (response by M-cones) and red (response by L-cones), which is yellow. On the other hand, suppose a light with a single peak around 610 nm. To some extent, both M-cones and L-cones repond to this wavelength, resulting in the the color of a mixture of green and red, which is yellow which is the same as the previous example. 
+
+Now you understand the necessity and utility of considering sinusoidal light. In other word, light with a certain single wavelength. Such light is called "monochromatic light". The word "monochromatic" consists of "mono" meaning "single" and "chrome" meaning "color". 
+
+Quantum features of a photon
+
+Suppose we consider a monochromatic light 
+The most important fact of photons is relation between the energy $E$, frequency $\nu$, wavelength $\lambda$,  of a single photon $E$ is 
+
 
 ## Three optics
 
-When we talk about how light behaves, we usually use one of three approaches: geometrical optics, wave optics, or quantum optics. In geometrical optics, we think of light as traveling in straight lines. In wave optics, we treat light as a wave that spreads out in space. In quantum optics, we look at light as a group of photons.
+When we talk about how light behaves, we usually use one of three different approaches: geometrical optics, wave optics, or quantum optics. In geometrical optics, we think of light as traveling in straight lines. In wave optics, we treat light as a wave that spreads out in space. In quantum optics, we treat light as a group of photons.
 
-They are different way of describing light. You might wonder why we need three different ways to describe the same thing. The reason is that it’s related to the idea of "modeling," which is a key concept in physics. Natural phenomena are often too complex for us to understand perfectly, so we simplify them by focusing on the most important features and ignoring the rest.
+You might wonder why we need three different ways to describe the same thing. The reason is that it is related to the idea of "modeling," which is a key concept in physics. Natural phenomena are often too complex for us to describe perfectly, so we simplify them by focusing on the most important features and ignoring the rest.
 
 For example, when we talk about a rainbow in the sky, we usually use geometrical optics. This approach assumes that light travels in straight lines and bends when it passes a boundary between air and water. We can calculate its angle using the well known value of "refractive index" of each wavelength of the light in the water. 
 
@@ -79,6 +95,7 @@ The quantum optics is necessary if we deeply analyze the interaction of the ligh
 ## Generation of light
 How does light happen? According to the wave optics, light happens when an electric charge moves with non-zero
 acceleration. For example, if an electron is moving around a circle, it emits light. It is the principle of "synchrotron radiation". According to the quantum optics, a photon (the element of light in the quantum mechanics' perspective) happens when a system change its energy from a level to some lower level.
+
 
 ## Thermal radiation
 In ecology, The most important process of light generation is perhaps "thermal radiation" (or "thermal emission"). It says, depending on its temperature, every object emits light. For example, because the sun is an object, it emits light depending on its temperaturre. It is the sunlight. 
