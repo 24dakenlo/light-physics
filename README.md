@@ -67,16 +67,23 @@ As I wrote, the wange of wavelength of visible light, or the light human's eyes 
 
 The color sense of human's vision is essentially related to the spectrum. In short, if a spectrum of light is given, we can predict its color. How? The human's eyes have three different types of color-sensing cells called "cones". The brain recognizes colors by the signals from these three types of cones, namely, "S-cones", "M-cones", and "L-cones", as blue color, green color, and red color, respectively. The intensity of the response of each type of cone depends on the light's spectrum: If the dominant wavelength are 400 nm in the spectrum, the S-cones' response is big and other cones' response is small, resulting in the recognition of blue by the brain. If the light's spectrum consists of multiple peaks or broad range of wavelength, all the S-, M-, and L-cones responds differently and the color is a mixture of blue, green, and red, resulting in a huge variation of possible colors. 
 
-Ad I wrote, the human's vision takes place in response to the light called "visible light", whose wavelength is in between about 400 nm and about 700 nm. Our eyes cannot detect light whose wavelength is outside this range. It is because the cones in human's eyes do not respond to such light. Therefore, if some animals have different types of cones from human, they may be able to see light which is invisible for human. In fact, birds and some insects have cones which respond to light shorter that our visible light. 
+As I wrote, the human's vision takes place when our eyes are illuminated by the light called "visible light", whose wavelength is in between about 400 nm and about 700 nm. Our eyes cannot detect light whose wavelength is outside this range. It is because the cones in human's eyes do not respond to such light. Therefore, if some animals have different types of cones from human, they may be able to see light which is invisible for human. In fact, birds and some insects have cones which respond to UV light, whose wavelength is shorter that our visible light. Therefore, we should consider invisible light (for us) when we study about those animal's vision.
 
 I explained that a spectrum decides color of the light. Interestingly, the reverse story is invalid. Namely, a color does not decide lights' spectrum. In other words, lights with different spectrum can have a same color. Let's understand it by an example: suppose a light with a spectrum of double peaks at 550 nm (stimulating M-cones) and 680 nm (stimulating L-cones). Then the color is a mixture of green (response by M-cones) and red (response by L-cones), which is yellow. On the other hand, suppose a light with a single peak around 610 nm. To some extent, both M-cones and L-cones repond to this wavelength, resulting in the the color of a mixture of green and red, which is yellow which is the same as the previous example.
 
 Nonetheless, we may discuss spectrum in a context of colors for convenience. In particular, we describe monochromatic visible ligh not only by wavelength but also its color in an order of shorter wavelength to longer wavelength as follows: violet, purple, blue, green, yellow, orange, red. It is not a coincident that this order is the same as the order of colors in a rainbow. In fact, rainbow is a collection of concentric arcs of monochromatic lights: the inside arc is shorter light (violet or blue) and the outside arc is longer light (red). It is a good idea to memorize this order of colors because it helps us understand and imagine the phenomena of light in terms of wavelengths.
 
+## Features of monochromatic light
+
+Now let's learn about some important feature of monochromatic light. Suppose we consider a monochromatic light 
+
+The most important fact of photons is relation between the energy $E$, frequency $\nu$, wavelength $\lambda$,  of a single photon $E$ is 
+
+
 
 ## Colors of objects
 
-In the previous section, we discussed about colors of lights. Now we discuss about colors of things (objects). They are similar but different ideas which we need to distinguish carefully. For example, let's imagine the green traffic light and a plant's green leaf. The difference is, the traffic light is shyning by itself but the plant's leaf is not. Because color is a feature of light, we cannot discuss color of the leaf unless considering light source which illuminates the leaf. The color or leaf is, in fact, discussed in relation to the color of light which is scattered by the leaf. Then something strange may happen: if the light is originally red, containing little light which stimulates M-cones (which gives response of green), the reflected light can be also red. 
+In the previous section, we discussed about colors of lights. Now we discuss about colors of things (objects). They are similar but different ideas which we need to distinguish carefully. For example, let's imagine a plant's green leaf. The plant's leaf is illuminated by some light coming from a certain light source. Then the plant's leaf scatters the light to our eyes. Therefore, the color of the plant's leaf depends on the color of the illuminating light and how the light is scattered by the plant's leaf. reflectance to our eyes is a scattered light. Because color is a feature of light, we cannot discuss color of the leaf unless considering light source which illuminates the leaf. The color or leaf is, in fact, discussed in relation to the color of light which is scattered by the leaf. Then something strange may happen: if the light is originally red, containing little light which stimulates M-cones (which gives response of green), the reflected light can be also red. 
 
 plants' leaf "scatters" green light stronger than other lights (red and blue). 
 
@@ -95,11 +102,6 @@ color of shadow
 - Nevertheless, the idea of monochromatic light can be applied to the invisible light, too. It simply means "ligh with a single wavelength".
 
 
-## Features of monochromatic light
-
-Now we should understand feature of monochromatic light. Suppose we consider a monochromatic light 
-
-The most important fact of photons is relation between the energy $E$, frequency $\nu$, wavelength $\lambda$,  of a single photon $E$ is 
 
 
 ## Three optics
