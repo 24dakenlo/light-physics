@@ -1,10 +1,10 @@
 # light-physics
 
-We see and experience light every day; it’s always around us and helps us see things. But understanding what light really is can be quite complex and needs a lot of advanced science. In this chapter, we will explain the most important ideas about light that we need for studying radiation ecology, without getting too technical.
+In this chapter, we will explain the most important ideas about light that we need for studying radiation ecology, without getting too technical.
 
 ## Light is electromagnetic wave
 
-Light can be thought of in two main ways. One way is as a "wave in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength.
+When we hear the word "light", we may imagine the light which we can see (so called "visible light"). However, light is much broader phenomena: some light is visible and other light is invisible. Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength. X-ray and gamma-ray are also light: they are the shorter extreme of light.
 
 So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist. The electric field and the magnetic field exert forces on electrically charged particles such as electrons. The force from electric field is independent of the particle's velocity, whereas the force from magnetic field depends on the particle's velocity. More precisely, this relationship is described by the equation:
 
@@ -16,14 +16,14 @@ where, ${\bf F}$ is the force on the particle, ${\bf E}$ is the electric field, 
 
 Another way to think about light is as a "particle produced by the electromagnetic field." The particle is called "photon". Unlike particles we usually think of, like tiny bits of dust, a photon is a much more abstract concept. It is not a normal particle but a special kind of object known as a "quantum." It is an idea of "quantum physics", which mainly treats objects too small to be treated by the physics of our daily life (so called Newtonian dynamics). 
 
-In the radiation ecology, the quantum physics may appear in some topics involving not only photons but also electrons, such as chlorophyll fluorescence. Therefore, it is a good idea to know about some of the main ideas in quantum physics: 
-- Properties such as energy, momentum, and angular momentum are impossible to determine in general cases.
-- Instead, they are described by something called a "linear operator."
+In the radiation ecology, the quantum physics may appear in some topics involving not only photons but also electrons, such as photosunthesis or chlorophyll fluorescence. Therefore, it is a good idea to know about some of the main ideas in quantum physics: 
+- Properties such as energy, momentum, and angular momentum of a quantum particle (such as photon and electron) are impossible to determine in general cases.
+- Instead, these properties are described by something called a "linear operator."
 - The value of these properties is determined if the system is in a special state called an "eigenstate," where the value is equal to something called the "eigenvalue."
 
 In case of the electromagnetic field's energy, the eigenvalue of its "liner operator" (called "Hamiltonian operator") is related to a non-negative integer $n$. We understand this integer $n$ as the number of photons. In other words, we recognize the eigen state of electromagnetic field's energy as "there are $n$ photons in the space". 
 
-You may feel it is too abstract to understand, but it's ok. It's too much for human's intelligence to imagine a perfect picture of a photon. In many cases you may imagine them as tiny balls, but you should remember that sometimes this imagination is invalid. It's enough.
+You may feel it is too abstract to understand, but it's ok. It's too much for human's intelligence to imagine a perfect picture of a photon. In many cases you may imagine them as tiny balls, but you should remember that sometimes this imagination is invalid.
 
 ## Principle of superposition
 
