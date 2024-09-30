@@ -2,16 +2,30 @@
 
 In this chapter, we will explain the fundamentals of physics of radiation that we need for studying radiation ecology, without getting too technical.
 
-## Radiation in ecology
+## Radiation as an electromagnetic wave
 
-The word "radiation" means a beam of particles or something. For example. $alpha$ ray is a beam of $\alpha$ particle (nucleus of helium). However, in this book or in an context of radiation ecology, "radiation" means "electromagnetic wave". For convenience, people prefer using a word "light" to describe electromagnetic wave. 
-    When we hear the word "light", we may imagine the light which we can see (so called "visible light"). However, light is much broader phenomena: some light is visible and other light is invisible. Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength. X-ray and gamma-ray are also light: they are the shorter extreme of light.
+The word "radiation" means a beam of particles or something. For example. $\alpha$ ray is a beam of $\alpha$ particle (nucleus of helium). However, in this book or in an context of radiation ecology, "radiation" means "electromagnetic wave". It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
 
-So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist. The electric field and the magnetic field exert forces on electrically charged particles such as electrons. The force from electric field is independent of the particle's velocity, whereas the force from magnetic field depends on the particle's velocity. More precisely, this relationship is described by the equation:
+## Light ##
+
+The word "electromagnetic wave" is a little long, so that people prefer using a word "light" instead. When we hear the word "light", we may imagine the light which we can see (so called "visible light"). Indeed, people may sometimes use the word "light" in that way. However, when we use "light" as a substitute of the word "electromagnetic wave", it includes a broad range of phenomena including visible light. 
+
+
+
+In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength. X-ray and gamma-ray are also light: they are the shorter extreme of light. 
+Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." 
+
+
+
+The electric field and the magnetic field exert forces on electrically charged particles such as electrons. The force from electric field is independent of the particle's velocity, whereas the force from magnetic field depends on the particle's velocity. More precisely, this relationship is described by the equation:
 
 ${\bf F} = q {\bf E} + q {\bf v} \times {\bf B}$    (1.1)
 
 where, ${\bf F}$ is the force on the particle, ${\bf E}$ is the electric field, ${\bf B}$ is the magnetic flux density (an expression of magnetic field), $q$ is the electric charge of the particle, and ${\bf v}$ is the velocity of the particle. The symbol $\times$ means "vector product" which you can find its definition and meaning in a mathematics textbook. This equation is the fundamental fact which defines the two fields, so that we do not need to worry about why they work this way. 
+
+
+is For convenience, people prefer using a word "light" to describe electromagnetic wave. 
+
 
 ## Light is photons
 
