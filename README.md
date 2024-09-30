@@ -2,7 +2,7 @@
 
 In this chapter, we will explain the fundamentals of physics of radiation that we need for studying radiation ecology, without getting too technical.
 
-## Radiation is electromagnetic ecology
+## Radiation in ecology
 
 The word "radiation" means a beam of particles or something. For example. $alpha$ ray is a beam of $\alpha$ particle (nucleus of helium). However, in this book or in an context of radiation ecology, "radiation" means "electromagnetic wave". For convenience, people prefer using a word "light" to describe electromagnetic wave. 
     When we hear the word "light", we may imagine the light which we can see (so called "visible light"). However, light is much broader phenomena: some light is visible and other light is invisible. Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength. X-ray and gamma-ray are also light: they are the shorter extreme of light.
