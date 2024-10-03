@@ -27,8 +27,9 @@ This exercise calculated energy of photon of two lights: blue light (1) and red 
 
 ## Photon beam or electromagnetic wave?
 
-So far, we have described and explained light in two ways: photon beam and electromagnetic wave. These look very different idea, but they do not conflict with each other. Indeed, light has these two features: particle (photon) and wave (electromagnetic wave). Roughly speaking, the particle feature dominates when the wavelength is short, whereas the wave feature dominates when the wavelength is long. There is a theoretical principle which describe each feature: the quantum dynamics for the particle (photon), and the Maxwell equation for the electrimagnetic wave. These two theories need certain level of math skills which require special training for several years. Because we assume our readers are ecology students who did not have time to learn those math and physics, we summarize some imporatnt features of these theories without explaining how and why. 
+So far, we have described and explained light in two ways: photon beam and electromagnetic wave. They look very different ideas, but they do not conflict with each other. Indeed, light has these two aspects: particle (photon) and wave (electromagnetic wave). Roughly speaking, the particle dominates when the wavelength is short, whereas the wave dominates when the wavelength is long. There is a theoretical principle which describe each of them: the quantum dynamics for the particle (photon), and the Maxwell equation for the wave. These two theories need certain level of math skills which require special training for several years. Because we assume our readers are ecology students who did not have time to learn those math and physics, we summarize some imporatnt features of these theories without explaining how and why. 
 
+## 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
 
 
