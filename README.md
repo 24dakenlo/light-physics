@@ -15,8 +15,15 @@ When we hear the word "light", we may imagine the light which we can see (so cal
 As described, wavelength is a key to characterize light. It is defined for a light in a sinusoidal wave. "Sinusoidal" means, it is described by a trigonometry function such as sin and cosine. The wavelength is the distance between the peak and the nearest peak (or bottom to the nearest bottom). A Greek letter $\lambda$ is conventionally and popularly used to descrive wavelength. Therefore, it is a good idea to use $\lambda$ when you describe wavelength unless enough reason to choose other specific symbols. 
 
 A very important fact: a photon's energy $E$ is directly connected to the wavelenght $\lambda$ is a formula:
+
 $E=\frac{hc}{\lambda}$,
-$where$, $h$ is the Planck constant and c is the speed of light, both of which are fundamental constants in physics.
+
+$where$, $h\fallingdotseq 6.63\times10^{-34}$ J s is the Planck constant and $c\fallingdotseq 3.00\times10^{8} \text{m s}^{-1}$ is the speed of light, both of which are fundamental constants in physics. Let's try some exercises:
+
+#### Exercise 1-1: Derive enery of a photon in case (1) $\lambda = 450\text{ nm}$, (2) $\lambda = 680\text{ nm}$. 
+Answer: (1) $E=6.63\times10^{-34}\text{J s}\times 3.00\times 10^{8} \text{m s}^{-1}/(450\times 10^{-9} \text{m})=4.4\times 10^{-19}\text{ J}$. (2) $E=2.9\times 10^{-19}\text{ J}$.
+
+
 
 Wavelength $\lambda$ has an important meaning for photon. 
 
