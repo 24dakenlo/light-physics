@@ -10,6 +10,15 @@ In this chapter, we will explain the fundamental physics that we need for studyi
 
 When we hear the word "light", we may imagine the light which we can see (so called "visible light"). Indeed, people may use the word "light" in that way. However, in nature, there is invisible light, such as ultraviolet (UV) light and infrared light. Both visible and invisible light are a same phenomena: a beam of photon (or electromagnetic wave). Its visibility is a matter of how human eyes' are capable of detecting it (we will learn it later). Because the nature and the behavior of light strongly depends on it's wavelength, physisists use different names for describing light in a different wavelength. Namely, from short to long, light has names such as: $\gamma$ ray, X ray, ultraviolet (UV) light, visible light, near infrared (NIR) light, mid infrared light, microwave, etc. The "radio wave" used in TVs, radios, and cell phones are also light. 
 
+## Wavelength of light
+
+As described, wavelength is a key to characterize light. It is defined for a light in a sinusoidal wave. "Sinusoidal" means, it is described by a trigonometry function such as sin and cosine. The wavelength is the distance between the peak and the nearest peak (or bottom to the nearest bottom). A Greek letter $\lambda$ is conventionally and popularly used to descrive wavelength. Therefore, it is a good idea to use $\lambda$ when you describe wavelength unless enough reason to choose other specific symbols. 
+
+A very important fact: a photon's energy $E$ is directly connected to the wavelenght $\lambda$ is a formula:
+$E=\frac{hc}{\lambda}$,
+$where$, $h$ is the Planck constant and c is the speed of light, both of which are fundamental constants in physics.
+
+Wavelength $\lambda$ has an important meaning for photon. 
 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
 
@@ -17,8 +26,6 @@ It is a wave which transfers in the "electromagnetif field". So, what is the "el
 
 
 Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." 
-
-
 
 The electric field and the magnetic field exert forces on electrically charged particles such as electrons. The force from electric field is independent of the particle's velocity, whereas the force from magnetic field depends on the particle's velocity. More precisely, this relationship is described by the equation:
 
