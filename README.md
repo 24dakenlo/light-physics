@@ -1,14 +1,19 @@
 # light-physics
 
-In this chapter, we will explain the fundamentals of physics of radiation that we need for studying radiation ecology, without getting too technical.
+In this chapter, we will explain the fundamental physics that we need for studying radiation ecology, without getting too technical.
 
-## Radiation as an electromagnetic wave
+## Radiation is light
 
-The word "radiation" means a beam of particles or something. For example. $\alpha$ ray is a beam of $\alpha$ particle (nucleus of helium). However, in this book or in an context of radiation ecology, "radiation" means "electromagnetic wave". It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
+The word "radiation" means beams of various particles. For example. $\alpha$ ray is a beam of $\alpha$ particle (nucleus of helium), while $\beta$ ray is a beam of electrons. However, "radiation" in "radiation ecology" means, specifically, a beam of photons. The beam of photons is also called "electromagnetic wave". You may wonder about the gap of imagination of "beam of particles" and "wave", but they describe a same phenomenon in different perspectives. We will see it later. Anyway, this phenomenon is sometimes called "light". In short, "radiation" in "radiation ecology" is "light".
+
+## Visible light and invisible light
+
+When we hear the word "light", we may imagine the light which we can see (so called "visible light"). Indeed, people may sometimes use the word "light" in that way. However, in physics, "light" includes invisible light, too. Both visible and invisible light are a same phenomena which is a beam of photon or electromagnetic wave. It's visibility is a matter of how human eyes' are capable of detecting it. 
+
+It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
 
 ## Light ##
 
-The word "electromagnetic wave" is a little long, so that people prefer using a word "light" instead. When we hear the word "light", we may imagine the light which we can see (so called "visible light"). Indeed, people may sometimes use the word "light" in that way. However, when we use "light" as a substitute of the word "electromagnetic wave", it includes a broad range of phenomena including visible light. 
 
 
 
