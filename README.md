@@ -23,7 +23,7 @@ $where$, $h\fallingdotseq 6.63\times10^{-34}$ J s is the Planck constant and $c\
 #### Exercise 1-1: Derive enery of a photon in case (1) $\lambda = 450\text{ nm}$, (2) $\lambda = 680\text{ nm}$. 
 Answer: (1) $E=6.63\times10^{-34}\text{J s}\times 3.00\times 10^{8} \text{m s}^{-1}/(450\times 10^{-9} \text{m})=4.4\times 10^{-19}\text{ J}$. (2) $E=2.9\times 10^{-19}\text{ J}$.
 
-
+This exercise calculated energy of photon of two lights: blue light (1) and red light (2) both of which are the peak of absorption by the chlorophyll a which is a main pigment of photosynthesis by terrestrial plants. The result shows the photon's enegy of blue light is larger than that of red light. It is understandable because the energy is inversely proportional to the wavelength: the longer the wavelength, the smaller the energy. 
 
 Wavelength $\lambda$ has an important meaning for photon. 
 
