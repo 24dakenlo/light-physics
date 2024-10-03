@@ -23,13 +23,13 @@ $where$, $h\fallingdotseq 6.63\times10^{-34}$ J s is the Planck constant and $c\
 #### Exercise 1-1: Derive enery of a photon in case (1) $\lambda = 450\text{ nm}$, (2) $\lambda = 680\text{ nm}$. 
 Answer: (1) $E=6.63\times10^{-34}\text{J s}\times 3.00\times 10^{8} \text{m s}^{-1}/(450\times 10^{-9} \text{m})=4.4\times 10^{-19}\text{ J}$. (2) $E=2.9\times 10^{-19}\text{ J}$.
 
-This exercise calculated energy of photon of two lights: blue light (1) and red light (2) both of which are the peak of absorption by the chlorophyll a which is a main pigment of photosynthesis by terrestrial plants. The result shows the photon's enegy of blue light is larger than that of red light. It is understandable because the energy is inversely proportional to the wavelength: the longer the wavelength, the smaller the energy. 
+This exercise calculated energy of photon of two lights: blue light (1) and red light (2) both of which are the peak of absorption by the chlorophyll a which is a main pigment of photosynthesis by terrestrial plants. The result shows the photon's enegy of blue light is larger than that of red light. It is understandable because the energy is inversely proportional to the wavelength: the longer the wavelength, the smaller the energy. An example which is related to this fact is, when we watch an old poster photo which has been displayed on a wall for long time: Red color disappears faster than blue paint, resulting in blueish photo on the poster. It is because the red pigment preferably absorbs light in shorter wavelength (such as blue or UV) who has enough high energy to destroy the structure of the pigment. In other words, red pigments may absorb destructive light photons. It is the reason why some plants' leaves are red. 
 
-Wavelength $\lambda$ has an important meaning for photon. 
+## Photon beam or electromagnetic wave?
+
+So far, we have described and explained light in two ways: photon beam and electromagnetic wave. These look very different idea, but they do not conflict with each other. Indeed, light has these two features: particle (photon) and wave (electromagnetic wave). Roughly speaking, the particle feature dominates when the wavelength is short, whereas the wave feature dominates when the wavelength is long. There is a theoretical principle which describe each feature: the quantum dynamics for the particle (photon), and the Maxwell equation for the electrimagnetic wave. These two theories need certain level of math skills which require special training for several years. Because we assume our readers are ecology students who did not have time to learn those math and physics, we summarize some imporatnt features of these theories without explaining how and why. 
 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
-
-## Light ##
 
 
 Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." 
