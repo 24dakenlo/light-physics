@@ -8,16 +8,14 @@ In this chapter, we will explain the fundamental physics that we need for studyi
 
 ## Visible light and invisible light
 
-When we hear the word "light", we may imagine the light which we can see (so called "visible light"). Indeed, people may use the word "light" in that way. However, in nature, there is invisible light, such as ultraviolet (UV) light and infrared light. Both visible and invisible light are a same phenomena: a beam of photon (or electromagnetic wave). Its visibility is a matter of how human eyes' are capable of detecting it (we will learn it later). Because the nature and the behavior of light strongly depends on it's wavelength, physisists use different names for describing light in a different wavelength. Namely, from short to long, light has names such as: $\gamma$ ray, X ray, ultraviolet (UV) light, visible light, near infrared (NIR) light, mid infrared light, microwave, etc.
+When we hear the word "light", we may imagine the light which we can see (so called "visible light"). Indeed, people may use the word "light" in that way. However, in nature, there is invisible light, such as ultraviolet (UV) light and infrared light. Both visible and invisible light are a same phenomena: a beam of photon (or electromagnetic wave). Its visibility is a matter of how human eyes' are capable of detecting it (we will learn it later). Because the nature and the behavior of light strongly depends on it's wavelength, physisists use different names for describing light in a different wavelength. Namely, from short to long, light has names such as: $\gamma$ ray, X ray, ultraviolet (UV) light, visible light, near infrared (NIR) light, mid infrared light, microwave, etc. The "radio wave" used in TVs, radios, and cell phones are also light. 
+
 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
 
 ## Light ##
 
 
-
-
-In everyday life, we might call it "light" if its wavelength is small, or "radio wave" if the wavelength is long. Actually, light is basically the same as the radio waves used in TVs, radios, and cell phones except for the difference in the wavelength. X-ray and gamma-ray are also light: they are the shorter extreme of light. 
 Light can be thought of in two main ways. One way is as a "wave which travels in the electromagnetic field." In science, this kind of wave is called an "electromagnetic wave" or "radiation." 
 
 
