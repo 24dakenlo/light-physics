@@ -27,12 +27,32 @@ Answer: (1) $E=6.63\times10^{-34}\text{J s}\times 3.00\times 10^{8} \text{m s}^{
 
 This exercise calculated energy of photon of two lights: blue light (1) and red light (2) both of which are the peak of absorption by the chlorophyll a which is a main pigment of photosynthesis by terrestrial plants. The result shows the photon's enegy of blue light is larger than that of red light. It is understandable because the energy is inversely proportional to the wavelength: the longer the wavelength, the smaller the energy. An example which is related to this fact is, when we watch an old poster photo which has been displayed on a wall for long time: Red color disappears faster than blue paint, resulting in blueish photo on the poster. It is because the red pigment preferably absorbs light in shorter wavelength (such as blue or UV) who has enough high energy to destroy the structure of the pigment. In other words, by absorbing the destructive photons of the short wave light, the red or brown pigments block them. It is the reason why some plants' leaves are red: the red pigments blocks harmful photons in the sunlight or skylight from going into the leaf tissue.
 
-## particle or wave?
+## particle and wave?
 
-So far, we have described and explained light in two ways: particle (photon) and wave (electromagnetic wave). They look very different ideas. However, indeed, light has these two aspects simultaneusly. For example, as we have seen in the previous section, energy of a photon (particle) depends on wavelength. The idea "wavelength", which is a feature of a wave, describes a feature (energy) of a particle! You may feel mysterious. It is natural. Photon is something beyond our imagination. Like a photon, a mysterious particle which has both particle and wave aspects is called "quantum". The nature and behavior of a quantum is explained by a theory called "quantum physics". An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Therefore, quantum physics explains behavior of electron, too. 
+So far, we have described and explained light in two ways: particle (photon) and wave (electromagnetic wave). They look very different ideas. However, indeed, light has these two aspects simultaneusly. For example, as we have seen in the previous section, energy of a single particle (photon) depends on wavelength, which is a feature of a wave! If you seriously try to imagine this situation, you may feel mysterious because a sinusoidal wave repeats the same pattern from far away to far away. It does not look like a single particle which we imagine like a small basket ball. Not only you but also everybody may feel uneasy to catch up this story. My suggestion: give up imagination and accept the two aspects without asking how and why. Take it easy and keep reading further.
 
-We have a theory for each aspect: the quantum dynamics for the particle (photon), and the electromagnetism for the wave (electromagnetic wave). Although quantum physics and electromagnetism are very different theories, they have been combined by a theory called "quantization of the electromagnetic field". Learning these theories needs skills of math and physics beyond a prerequisite for most ecologists. Therefore, we summarize some imporatnt features of these theories without explaining how and why. 
+## Quantum
 
+Like a photon, a mysterious particle which has both particle and wave aspects is called "quantum". An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Interestingly, a photon and an electron interacts with each other in a way electron changes "state" by absorbing or emitting a photon. It is a mechanism of absorption and scattering of light by substances such as:
+
+- Absorption of photons by chlorophyll molecules. It is the start of photosynthesis.
+- Scattering of photons by atmospheric molecules in the sky. It makes blue sky.
+- Emission of photons by chlorophyll molecules. It causes chlorophyll fluorescence.
+
+## Quantum dynamics
+
+The theory of nature and behavior of a quantum is called "quantum dynamics". It explains behavior of a photon and electron, including their interactions. Learning quantum dynamics needs skills of math and physics beyond a prerequisite for most ecologists. Therefore, without explaining how and why, we try summarizing some imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology:
+
+1. A condition of a quantum or a group of quanta (plural of quantum) is described by a "state". You may imagine a state is a mathematical function. The state may change from time to time. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the state is a special state (called eigenstate) for each property.
+
+2. If the state depends on time in an oscillating manner with a frequency $\nu$, it is a special state (eigen state) of the energy and the energy $E$ is decided by the following formula:
+
+$E=h\nu$
+
+$E=\hbar\omega$
+
+
+3. 
 
 ## 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
