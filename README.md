@@ -14,7 +14,7 @@ When we hear the word "light", we may imagine the lights which we can see, such 
 
 ## Wavelength of light
 
-Wavelength is an important feature of light, because the nature and the behavior of light strongly depends on it's wavelength. Wavelength is defined for a wave whose pattern is sinusoidal. "Sinusoidal" means, it is described by a trigonometry function such as sine and cosine. The wavelength is the distance between a peak and the nearest peak (or bottom to the nearest bottom). A Greek letter $\lambda$ is conventionally and popularly used to descrive wavelength. Therefore, it is a good idea to use $\lambda$ when you describe wavelength unless enough reason to choose other specific symbols. 
+Wavelength is an important feature of light, because the nature and the behavior of light strongly depends on its wavelength. Wavelength is defined for a wave whose pattern is sinusoidal. "Sinusoidal" means, it is described by a trigonometry function such as sine and cosine. The wavelength is the distance between a peak and the nearest peak (or bottom to the nearest bottom). A Greek letter $\lambda$ is conventionally and popularly used to descrive wavelength. Therefore, it is a good idea to use $\lambda$ when you describe wavelength unless enough reason to choose other specific symbols. 
 
 A very important fact: a photon's energy $E$ is directly connected to the wavelenght $\lambda$ by a formula:
 
@@ -29,7 +29,8 @@ This exercise calculated energy of photon of two lights: blue light (1) and red 
 
 ## particle and wave?
 
-So far, we have described and explained light in two ways: particle (photon) and wave (electromagnetic wave). They look very different ideas. However, indeed, light has these two aspects simultaneusly. For example, as we have seen in the previous section, energy of a single particle (photon) depends on wavelength. But wavelength is not a feature of a particle but a sinusoidal wave! If you seriously try to imagine this situation, you may feel mysterious because a sinusoidal wave repeats the same pattern from far away to far away. It does not look like a single particle which we imagine like a small basket ball. Not only you but also everybody may feel uneasy to catch up this story. My suggestion: give up imagination and accept the two aspects without asking how and why. Take it easy and keep reading further.
+But wait. Don't you deel strange? While we were talking about photon's energy, "wavelength" sudenly came up. Wavelength is a feature of a sinusoidal wave. It is hard to connect an idea of wavelength to a particle, because a sinusoidal wave repeats the same pattern from far away to far away. It does not look like a single particle which we imagine like a small basket ball. It is a mysterious story. As mentioned, light has two aspects: wave and particle. Many people try imagining light in such a way that satisfies these two aspects at a same time in vein. Not only you but also everybody may feel uneasy to catch up this mystery. My suggestion: give up imagination and accept the two aspects without asking how and why. We call a mysterious particle which has both particle and wave aspects "quantum". The theory of nature and behavior of a quantum is called "quantum dynamics". We will see it later.  
+
 
 ## Quantum
 
@@ -41,7 +42,7 @@ Like a photon, a mysterious particle which has both particle and wave aspects is
 
 ## Quantum dynamics
 
-The theory of nature and behavior of a quantum is called "quantum dynamics". It explains behavior of a photon and an electron, including their interactions. Learning quantum dynamics needs skills of math and physics beyond a prerequisite for most ecologists. We skip it and try summarizing some imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining how and why:
+ It explains behavior of a photon and an electron, including their interactions. Learning quantum dynamics needs skills of math and physics beyond a prerequisite for most ecologists. We skip it and try summarizing some imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining how and why:
 
 1. A condition of a quantum or a group of quanta (plural of quantum) is described by a "quantum state". "State" here is not the same as something like solid, liquid, and gas, which are "thermodynamic state". You may imagine a quantum state like a mathematical function. The quantum state may change from time to time. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the quantum state is a special state (called eigenstate) for each property.
 
