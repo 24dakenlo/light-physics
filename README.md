@@ -29,22 +29,23 @@ This exercise calculated energy of photon of two lights: blue light (1) and red 
 
 ## particle and wave?
 
-But wait. Don't you deel strange? While we were talking about photon's energy, "wavelength" sudenly came up. Wavelength is a feature of a sinusoidal wave. It is hard to connect an idea of wavelength to a particle, because a sinusoidal wave repeats the same pattern from far away to far away. It does not look like a single particle which we imagine like a small basket ball. It is a mysterious story. As mentioned, light has two aspects: wave and particle. Many people try imagining light in such a way that satisfies these two aspects at a same time in vein. Not only you but also everybody may feel uneasy to catch up this mystery. My suggestion: give up imagination and accept the two aspects without asking how and why. We call a mysterious particle which has both particle and wave aspects "quantum". The theory of nature and behavior of a quantum is called "quantum dynamics". We will see it later.  
+But wait. Don't you deel strange? While we were talking about photon's energy, "wavelength" sudenly came up. Wavelength is a feature of a sinusoidal wave. It is hard to connect an idea of wavelength to a particle, because a sinusoidal wave repeats the same pattern from far away to far away. It does not look like a single particle which we imagine like a small basket ball. It is a mysterious story. As mentioned, light has two aspects: wave and particle. Many people try imagining light in such a way that satisfies these two aspects at a same time in vein. Not only you but also everybody may feel uneasy to catch up this mystery. My suggestion: give up imagination and accept the two aspects without asking how and why. We call a mysterious particle which has both particle and wave aspects "quantum". The theory of nature and behavior of a quantum is called "quantum dynamics". 
 
 
-## Quantum
+## Quantum dynamics of light and electron
 
-Like a photon, a mysterious particle which has both particle and wave aspects is called "quantum". An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Interestingly, a photon and an electron interacts with each other in a way electron changes "state" by absorbing or emitting a photon. It is a mechanism of absorption and scattering of light by substances such as:
+Learning quantum dynamics needs skills of math and physics beyond a prerequisite for most ecologists. We skip it and try summarizing some imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining how and why. 
 
-- Absorption of photons by interaction with an electron in chlorophyll molecules. It is the start of photosynthesis.
-- Scattering of photons by interaction with an electron in atmospheric molecules in the sky. It makes blue sky.
-- Emission of photons by changing states of electron in chlorophyll molecules. It causes chlorophyll fluorescence.
+A photon is aquantum. An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Interestingly, a photon and an electron interacts with each other in a way electron absorbs or emits a photon. It is a mechanism of absorption and scattering of light by substances such as:
 
-## Quantum dynamics
+- Absorption of photons by an electron in chlorophyll molecules. It is the start of photosynthesis.
+- Scattering of photons by an electron in atmospheric molecules in the sky. It makes blue sky.
+- Absorption and emission of photons by electrons in the Sun. It causes sunlight.
+- Emission of photons by an electron in chlorophyll molecules. It causes chlorophyll fluorescence.
 
- It explains behavior of a photon and an electron, including their interactions. Learning quantum dynamics needs skills of math and physics beyond a prerequisite for most ecologists. We skip it and try summarizing some imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining how and why:
+Therefore, we must learn about quantum dynamics of electron in order to understand photon's behavior. We summarize the most important rules in quantum dynamics for this purpose:
 
-1. A condition of a quantum or a group of quanta (plural of quantum) is described by a "quantum state". "State" here is not the same as something like solid, liquid, and gas, which are "thermodynamic state". You may imagine a quantum state like a mathematical function. The quantum state may change from time to time. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the quantum state is a special state (called eigenstate) for each property.
+1. A condition of an electron or a group of electrons is described by a "quantum state". "State" here is not the same as something like solid, liquid, and gas, which are "thermodynamic state". You may imagine a quantum state like a mathematical function. The quantum state may change from time to time. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the quantum state is a special state (called eigenstate) for each property.
 
 2. If the quantum state depends on time in an oscillating manner with a frequency $\nu$, it is a special state (eigenstate) of the energy and the energy $E$ is decided by the following formula:
 
