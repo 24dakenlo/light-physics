@@ -34,22 +34,24 @@ But wait. Don't you deel strange? While we were talking about photon's energy, "
 
 ## Quantum dynamics of light and electron
 
-Learning quantum dynamics needs skills of math and physics beyond a prerequisite for most ecologists. We skip it and try summarizing some imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining how and why. 
+Learning quantum dynamics is a big project. We will shortcut it and summarize the most imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining details. 
 
-A photon is aquantum. An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Interestingly, a photon and an electron interacts with each other in a way electron absorbs or emits a photon. It is a mechanism of absorption and scattering of light by substances such as:
+A photon is a quantum. An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Interestingly, a photon and an electron interacts with each other in a way electron absorbs or emits a photon. It is a mechanism of absorption and scattering of light by substances such as:
 
 - Absorption of photons by an electron in chlorophyll molecules. It is the start of photosynthesis.
 - Scattering of photons by an electron in atmospheric molecules in the sky. It makes blue sky.
 - Absorption and emission of photons by electrons in the Sun. It causes sunlight.
 - Emission of photons by an electron in chlorophyll molecules. It causes chlorophyll fluorescence.
 
-Therefore, we must learn about quantum dynamics of electron in order to understand photon's behavior. We summarize the most important rules in quantum dynamics for this purpose:
+Therefore, we must learn about electron in order to understand photon's behavior. We summarize the most important rules in quantum dynamics for this purpose:
 
-1. A condition of an electron or a group of electrons is described by a "quantum state". "State" here is not the same as something like solid, liquid, and gas, which are "thermodynamic state". You may imagine a quantum state like a mathematical function. The quantum state may change from time to time. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the quantum state is a special state (called eigenstate) for each property.
+1. The behavior of an electron or a group of electrons is described by a concept called "quantum state". "State" here is not something like solid, liquid, and gas, which are "thermodynamic state". You may imagine a quantum state like a mathematical function. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the quantum state is a special state called "eigenstate" for each property.
 
-2. If the quantum state depends on time in an oscillating manner with a frequency $\nu$, it is a special state (eigenstate) of the energy and the energy $E$ is decided by the following formula:
+2. If the quantum state depends on time in an oscillating manner with a frequency $\nu$, it is the eigenstate of the energy and the energy $E$ is decided by the following formula:
 
 $E=h\nu$
+
+This formula is a general rule in quantum dynamics. In fact, the energy of photon $E=hc/\lambda$ is also derived from this formula: for light wave, $\nu$ is how many cycles a wave repeats in unit time, hence it is a distance in unit time divided by wavelength, i.e., $\nu=c/\lambda$. By putting this to $E=h\nu$, we get $E=hc/\lambda$. 
 
 $E=\hbar\omega$
 
