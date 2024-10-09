@@ -18,7 +18,7 @@ Wavelength is an important feature of light, because the nature and the behavior
 
 A very important fact: a photon's energy $E$ is directly connected to the wavelenght $\lambda$ by a formula:
 
-$E=\frac{hc}{\lambda}$,
+$E=\frac{hc}{\lambda}$, (eq. 1-1)
 
 $where$, $h\fallingdotseq 6.63\times10^{-34}$ J s is the "Planck constant" and $c\fallingdotseq 3.00\times10^{8} \text{m s}^{-1}$ is the "speed of light", both of which are fundamental constants in physics. Let's try some exercises:
 
@@ -47,14 +47,19 @@ Therefore, we must learn about electron in order to understand photon's behavior
 
 1. The behavior of an electron or a group of electrons is described by a concept called "quantum state". "State" here is not something like solid, liquid, and gas, which are "thermodynamic state". You may imagine a quantum state like a mathematical function. The phyical properties such as position, energy, momentum (something rekated to velocity), and angular momentum (something related to rotation) are ambiguous unless the quantum state is a special state called "eigenstate" for each property.
 
-2. If the quantum state depends on time in an oscillating manner with a frequency $\nu$, it is the eigenstate of the energy and the energy $E$ is decided by the following formula:
+2. If the quantum state depends on time in an oscillating manner with a frequency $\nu$ or an angular frequency $\omega$ ($=2\pi\nu$), it is the eigenstate of the energy and the energy $E$ is decided by the following formula (these two are the same):
 
-$E=h\nu$
+$E=h\nu$, (eq. 1-2)
 
-This formula is a general rule in quantum dynamics. In fact, the energy of photon $E=hc/\lambda$ is also derived from this formula: for light wave, $\nu$ is how many cycles a wave repeats in unit time, hence it is a distance in unit time divided by wavelength, i.e., $\nu=c/\lambda$. By putting this to $E=h\nu$, we get $E=hc/\lambda$. 
+$E=\hbar \omega$, (eq. 1-3)
 
-$E=\hbar\omega$
+This is a general rule in quantum dynamics. In fact, the energy of photon $E=hc/\lambda$ is also derived from this formula: for light wave, $\nu$ is how many cycles a wave repeats in unit time, hence it is a distance in unit time divided by wavelength, i.e., $\nu=c/\lambda$. By putting this to $E=h\nu$, we get $E=hc/\lambda$. 
 
+Depending on situation, an electron (or other quantum) can take various different energy eigen states in a systematic manner. We call them "energy levels." The electron (or quantum) can change its state from one energy eigen state to another. When it happens, the electron (or quantum) can absorb oremit a photon and the photon's energy $E_\text{photon}$ satisfies the following formula:
+
+$E_\text{photon} = E_\text{high}-E_\text{low}$ (eq. 1-4)
+
+where, $E_\text{high}$ and $E_\text{low}$ are the energies of the states between which the electron (or quantum) make a transition. If the transition is from lower energy state to the higher energy state, the photon is aborbed and disappears. If the transition is from the higher energy state to the lower energy state, the photon is emitted. 
 
 3. 
 
