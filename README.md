@@ -55,13 +55,12 @@ $E=\hbar \omega$, (eq. 1-3)
 
 This is a general rule in quantum dynamics. In fact, the energy of photon $E=hc/\lambda$ is also derived from this formula: for light wave, $\nu$ is how many cycles a wave repeats in unit time, hence it is a distance in unit time divided by wavelength, i.e., $\nu=c/\lambda$. By putting this to $E=h\nu$, we get $E=hc/\lambda$. 
 
-Depending on situation, an electron (or other quantum) can take various different energy eigen states in a systematic manner. We call them "energy levels." The electron (or quantum) can change its state from one energy eigen state to another. When it happens, the electron (or quantum) can absorb oremit a photon and the photon's energy $E_\text{photon}$ satisfies the following formula:
+3. Depending on situation, an electron (or other quantum) can take various different energy eigen states in a systematic manner. We call them "energy levels." The electron (or quantum) can change its state from one energy eigen state to another. When it happens, the electron (or quantum) can absorb oremit a photon and the photon's energy $E_\text{photon}$ satisfies the following formula:
 
 $E_\text{photon} = E_\text{high}-E_\text{low}$ (eq. 1-4)
 
 where, $E_\text{high}$ and $E_\text{low}$ are the energies of the states between which the electron (or quantum) make a transition. If the transition is from lower energy state to the higher energy state, the photon is aborbed and disappears. If the transition is from the higher energy state to the lower energy state, the photon is emitted. 
 
-3. 
 
 ## 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
