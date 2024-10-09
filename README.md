@@ -14,13 +14,13 @@ In daily life, by the word "light" we usually mean the light which we can see, s
 
 ## Wavelength of light
 
-Wavelength is an important feature of light, because the nature and the behavior of light strongly depends on its wavelength. Wavelength is defined for a wave whose pattern is sinusoidal. "Sinusoidal" means, it is described by a trigonometry function such as sine and cosine. The wavelength is the distance between a peak and the nearest peak (or bottom to the nearest bottom). A Greek letter $\lambda$ is conventionally and popularly used to descrive wavelength. Therefore, it is a good idea to use $\lambda$ when you describe wavelength unless enough reason to choose other specific symbols. 
+Wavelength is an important feature of light, because the nature and the behavior of light strongly depends on its wavelength. Wavelength is defined for a wave whose pattern is sinusoidal. "Sinusoidal" means, it is described by a trigonometry function such as sine and cosine. The wavelength is the distance between a peak and the nearest peak (or bottom to the nearest bottom). A Greek letter $\lambda$ is conventionally and popularly used to describe wavelength.
 
 A very important fact: a photon's energy $E$ is directly connected to the wavelenght $\lambda$ by a formula:
 
 $E=\frac{hc}{\lambda}$,
 
-$where$, $h\fallingdotseq 6.63\times10^{-34}$ J s is the Planck constant and $c\fallingdotseq 3.00\times10^{8} \text{m s}^{-1}$ is the speed of light, both of which are fundamental constants in physics. Let's try some exercises:
+$where$, $h\fallingdotseq 6.63\times10^{-34}$ J s is the "Planck constant" and $c\fallingdotseq 3.00\times10^{8} \text{m s}^{-1}$ is the "speed of light", both of which are fundamental constants in physics. Let's try some exercises:
 
 #### Exercise 1-1: Derive enery of a photon in case (1) $\lambda = 450\text{ nm}$, (2) $\lambda = 680\text{ nm}$. 
 Answer: (1) $E=6.63\times10^{-34}\text{J s}\times 3.00\times 10^{8} \text{m s}^{-1}/(450\times 10^{-9} \text{m})=4.4\times 10^{-19}\text{ J}$. (2) $E=2.9\times 10^{-19}\text{ J}$.
@@ -34,7 +34,7 @@ But wait. Don't you deel strange? While we were talking about photon's energy, "
 
 ## Quantum dynamics of light and electron
 
-Learning quantum dynamics is a big project. We will shortcut it and summarize the most imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology, without explaining details. 
+Quantum dynamics is a big subject in physics. It's theoretical basis depends on advanced mathematics which is too much for most of ecologists. Therefore, we give up getting a systematic understanding of the quantum physics, and instead, we will just summarize the most imporatnt and useful concepts and facts in quantum dynamics for builind radiation ecology. 
 
 A photon is a quantum. An electron is also a quantum. Indeed, an electron, which we may imagine as a particle, behaves as a wave in an electron microscope: in that device, we use an electron wave instead of a light wave to capture an image of a tiny target. Interestingly, a photon and an electron interacts with each other in a way electron absorbs or emits a photon. It is a mechanism of absorption and scattering of light by substances such as:
 
@@ -204,6 +204,8 @@ Because energy of the photon is inversely proportional to the wavelength,
 
 量子的なphotonとレイトレーシングのphotonは違う
 
+## Flux
 
+## PAR
 
 
