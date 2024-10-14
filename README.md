@@ -66,7 +66,7 @@ where, $E_\text{high}$ and $E_\text{low}$ are the energies of the states between
 
 Now we learn about light source. In ecology, the the most important light source is "thermal radiation". Every object spontaneously emit light with certain wavelength and intensity determined by its temperature: a hot object emit photons with shorter wavelength and higher intensity. Accordingly, the the Sun (ca 6000 K) emits photons (sunlight) with wavelength mostly in between 0.1 um and 4 um. On the other hand, the Earth (ca 300 K) emits photons with wavelength mostly in between 4 um and 100 um. These two groups of photons are important in the energy balance in the Earth's environment. The former group (0.1 um to 4 um) is called "shortwave radiation", whereas the latter group (4 um to 100 um) is called "longwave radiation".
 
-
+The mechanism of thermal radiation is as follows: many particles (molecules, atoms, electrons, etc.) which make up an object are in thermal motion: They 
 
 ## 
 It is a wave which transfers in the "electromagnetif field". So, what is the "electromagnetic field"? It is a basic feature of space that includes both an "electric field" and a "magnetic field." No one knows exactly why space has these features, but they exist.
