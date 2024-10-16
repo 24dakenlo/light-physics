@@ -203,8 +203,13 @@ acceleration. For example, if an electron is moving around a circle, it emits li
 ## Thermal radiation
 In ecology, The most important process of light generation is perhaps "thermal radiation" (or "thermal emission"). It says, depending on its temperature, every object emits light. For example, because the sun is an object, it emits light depending on its temperaturre. It is the sunlight. 
 
-If an object's temperature is high, the constituent particles of the objects are in high-energy states. They may sometimes transit to lower states, yielding photons. It is the source of the thermal radiation. In case of 
+You may know temperature of an object is an index of mean energy of particles which make up the object. Therefore, if an object is hot, the particles are in high-energy states. They may sometimes transit to lower states, yielding photons. It is a rough summary of the thermal radiation. You should know three formula about it. The first one is Planck's low. It is the most fundamental law of thermal radiation:
 
+$B(\lambda, T) = \frac{2 h c^2}{\lambda^5} \frac{1}{\text{exp}\Bigl(\frac{h c}{\lambda k_B T}\Bigr) - 1}$
+
+where:
+$B(\lambda, T)$ is the spectral radiance (power per unit area per unit wavelength per unit solid angle) at wavelength $\lambda$ and temperature $T$; $h$ is Planck's constant ($6.626 \times 10^{-34}$ J$\cdot$s); $c$ is the speed of light in a vacuum ($3.00 \times 10^8$ m/s); $\lambda$ is the wavelength of the photon; $k_B$ is the Boltzmann constant ($1.381 \times 10^{-23}$ J/K); $T$ is the absolute temperature; $e$ is the base of the natural logarithm.
+    
 Because energy of the photon is inversely proportional to the wavelength, 
 
 
