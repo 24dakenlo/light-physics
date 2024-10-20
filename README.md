@@ -122,7 +122,7 @@ $\lambda_\text{max} = 0.003\text{ m K} / T$
 
 解答: $\epsilon=1$とおいて, ステファン・ボルツマンの法則とウィーンの変位則を使う:
 
-$B = 5.67\times 10^{-8}\text{ W m}^{-2}\text{ K}^{-4}\times(6000\text{ K})^4 = 7.3\times 10^{11}\text{ W m}^{-2}$
+$B = 5.67\times 10^{-8}\text{ W m}^{-2}\text{ K}^{-4}\times(6000\text{ K})^4 = 7.3\times 10^{7}\text{ W m}^{-2}$
 
 $\lambda_\text{max} = 0.003\text{ m K} / (6000\text{ K}) = 0.00001\text{ m} = 10\text{ }\micro\text{m}$
 
