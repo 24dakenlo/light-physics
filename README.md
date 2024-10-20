@@ -99,12 +99,12 @@ $h\nu = E_\text{high} - E_\text{low}$
 
 熱放射にはプランクの法則という, 次式で表される理論が存在する。
 
-$B(\lambda, T) = \frac{2 h c^2}{\lambda^5} \frac{1}{\text{exp}\Bigl(\frac{h c}{\lambda k_B T}\Bigr) - 1}$
+$B(\lambda, T) = \frac{2 h c^2}{\lambda^5} \frac{1}{\text{exp}\Bigl(\frac{h c}{\lambda k_\text{B} T}\Bigr) - 1}$
 
 where:
-$B(\lambda, T)$ is the spectral radiance (power per unit area per unit wavelength per unit solid angle) at wavelength $\lambda$ and temperature $T$; $h$ is Planck's constant ($6.626 \times 10^{-34}$ J$\cdot$s); $c$ is the speed of light in a vacuum ($3.00 \times 10^8$ m/s); $\lambda$ is the wavelength of the photon; $k_B$ is the Boltzmann constant ($1.381 \times 10^{-23}$ J/K); $T$ is the absolute temperature; $e$ is the base of the natural logarithm.
+$B(\lambda, T)$ is the spectral radiance (power per unit area per unit wavelength per unit solid angle) at wavelength $\lambda$ and temperature $T$; $h$ is Planck's constant ($6.626 \times 10^{-34}$ J$\cdot$s); $c$ is the speed of light in a vacuum ($3.00 \times 10^8$ m/s); $\lambda$ is the wavelength of the photon; $k_\text{B}$ is the Boltzmann constant ($1.381 \times 10^{-23}$ J/K); $T$ is the absolute temperature; $e$ is the base of the natural logarithm.
 
-ただしこれは状況を理想化・単純化したモデルであるため, 実際の物体の熱放射はこの法則どおりにはいかない。より具体的に言えば, プランクの法則は, 全ての波長で可能な限り最も強い光を出すような理想的な状況を想定している。この想定を満たす物体を黒体（blackbody）と呼び, その熱放射を黒体放射と呼ぶ。プランクの法則が述べるのは, 黒体放射で出てくる光の強度を波長の関数として表したものである。実際の物体の熱放射は黒体放射より小さい。物体の熱放射の強度を黒体放射の強度で割った値を射出率（emissivity）という。射出率は0から1の実数値であり, 物体によって変わるし, 波長によっても変わる。後に述べる「偏光」によっても変わる。
+ただしこれは状況を理想化・単純化したモデルであるため, 実際の物体の熱放射はこの法則どおりにはいかない。より具体的に言えば, プランクの法則は, 全ての波長で可能な限り最も強い光を出すような理想的な状況を想定している。この想定を満たす物体を黒体（blackbody）もしくは完全黒体と呼び, その熱放射を黒体放射と呼ぶ。プランクの法則が述べるのは, 黒体放射で出てくる光の強度を波長の関数として表したものである。実際の物体の熱放射は黒体放射より小さい。物体の熱放射の強度を黒体放射の強度で割った値を射出率（emissivity）という。射出率は0から1の実数値であり, 物体によって変わるし, 波長によっても変わる。後に述べる「偏光」によっても変わる。
 
 さて, 現実の物体の熱放射と多少のズレがあるとはいえ, プランクの法則は熱放射の良いモデルであり, 我々が熱放射を論じる時の基礎である。プランクの法則をグラフにすると図___のようになる。このグラフを0から∞まで積分すると, 全波長で合計した熱放射のエネルギーが得られ, それは絶対温度の4乗に比例することがわかっている。これをステファン・ボルツマンの法則という。すなわち, 
 
