@@ -190,7 +190,7 @@ $\lambda_\text{max} = 0.003\text{ m K} / (5800\text{ K}) = 5.2\times10^{-7}\text
 
 $I(x) = I(0) \exp(-\beta x)$　　　(LB01)
 
-と表せる。ここで $\beta$は消散係数と呼ばれる定数であり, 媒質や構造, 入射角などによって決まる。 
+と表せる（注: $\exp x$は $e^x$ を意味する。 $e=2.718...$は自然対数の底である）。ここで $\beta$は消散係数と呼ばれる定数であり, 媒質や構造, 入射角などによって決まる。 
 
 これを単純な植物群落内の光の透過について導出してみよう。
 
@@ -217,7 +217,7 @@ $I(x+\Delta x) = (1 - an \Delta x) I(x)$である。群落を表面($x=0$)から
 
 $I(x) = I(N \Delta x) = I((N-1) \Delta x + \Delta x) =  (1 - an \Delta x) I((N-1)\Delta x)$
 
-$ =  (1 - an \Delta x)^2 I((N-2)\Delta x) = ... = (1 - an \Delta x)^N I(0) = (1 - \frac{anx}{N})^N I(0)$
+$=  (1 - an \Delta x)^2 I((N-2)\Delta x) = ... = (1 - an \Delta x)^N I(0) = (1 - \frac{anx}{N})^N I(0)$
 
 となる。ここで　$N$が十分に大きい（層が十分に薄い）とみなせば, 数学の公式
 
