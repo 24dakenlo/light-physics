@@ -283,7 +283,7 @@ $\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \
 
 ところが光が水やガラスなどの媒質・物質を伝播するときは, それらの中の無数の電子や原子核などがこの式の中の $\rho$や $\mathbf{J}$に関与してくるので, この式を直接扱うことは大変むずかしい。そこで, それらの媒質を構成する物質たちが作る電荷や電流を, ある過程のもとに巨視的にモデル化することで, 媒質中の巨視的な電磁気現象を扱えるように工夫されたのが, 媒質中のMaxwell方程式と呼ばれる。それは上の式の中の第一方程式と第四方程式をそれぞれ以下のように書き換えたものである:
 
-$\nabla \cdot \mathbf{D} = \frac{\rho}$
+$\nabla \cdot \mathbf{D} = \rho$
 
 $\nabla \times \mathbf{H} = \mathbf{J} + \frac{\partial \mathbf{D}}{\partial t}$
 
