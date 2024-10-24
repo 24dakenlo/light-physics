@@ -198,7 +198,7 @@ $I(x) = I(0) \exp(-\beta x)$　　　(LB01)
 
 $I(x+\Delta x)-I(x)=-an I(x) \Delta x$　　　(LB02)
 
-となる。両辺を $\Delta x$で割り, $\Delta x$を十分に0に近づけると（注: $\lim_{\Delta x \rightallow 0} \frac{I(x+\Delta x)-I(x)}{\Delta x} = \frac{dI}{dx}$）, 
+となる。両辺を $\Delta x$で割り, $\Delta x$を十分に0に近づけると（注: $\lim_{\Delta x \rightarrow 0} \frac{I(x+\Delta x)-I(x)}{\Delta x} = \frac{dI}{dx}$）, 
 
 $\beta = an$　　(LB03)
 
@@ -281,6 +281,19 @@ $\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \
 - 電場から磁束密度に右ねじを回すとその進行方向が伝播方向に一致する。
 - 波の速さ（電磁波つまり光の速さ）は $1/\sqrt{\epsilon_0 \mu_0}$である（注: それは実際に光速 $c=299792458\text{ m/s}$に一致する。）。
 
+ところが光が水やガラスなどの媒質・物質を伝播するときは, それらの中の無数の電子や原子核などがこの式の中の $\rho$や $\mathbf{J}$に関与してくるので, この式を直接扱うことは大変むずかしい。そこで, それらの媒質を構成する物質たちが作る電荷や電流を, ある過程のもとに巨視的にモデル化することで, 媒質中の巨視的な電磁気現象を扱えるように工夫されたのが, 媒質中のMaxwell方程式と呼ばれる。それは上の式の中の第一方程式と第四方程式をそれぞれ以下のように書き換えたものである:
+
+$\nabla \cdot \mathbf{D} = \frac{\rho}$
+
+$\nabla \times \mathbf{H} = \mathbf{J} + \frac{\partial \mathbf{D}}{\partial t}$
+
+ここで $\mathbf{D}$は電束密度, $\mathbf{H}$は磁場と呼ばれる物理量である。それぞれ $\mathbf{E}$と $\mathbf{B}$に関係するベクトル場だが, 必ずしもその関係は単純ではない。しかし, 実用上, 多くの媒質（物質）では
+
+$\mathbf{D} = \epsilon\mathbf{E}$
+
+$\mathbf{B} = \mu\mathbf{H}$
+
+と表すことができる。ここで $\epsilon$, $\mu$は媒質の誘電率と透磁率と呼ばれるスカラー量（注: 一般には行列（テンソル）だが, 等方性を仮定できるならスカラー量になる）, 媒質の物性や温度などに依存する。つまりもはや定数として扱うことはできない。さらに, これらは電磁場が振動するときはその振動数（角速度）にも依存しうる。
 
 
 ## 偏光
