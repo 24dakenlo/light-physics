@@ -356,7 +356,7 @@ $n\fallingdotseq \sqrt{\epsilon_\text{r}}$ あるいは, $\epsilon_\text{r}\fall
 
 ## 反射
 
-光がその波長よりはるかに大きな物体に当たった場合, その散乱は反射と呼ばれる。それは膨大な数の粒子による双極子放射が重なり合うことで実現されるのだが, むしろ一様な媒質どうしが隣接し合う状況でのマクスウェル方程式の境界値問題として説明されるのが普通である。その結果は以下のようになる：
+光がその波長よりはるかに大きな物体に当たった場合, その散乱は反射と呼ばれる。それは膨大な数の粒子による双極子放射が重なり合うことで実現されるのだが, むしろ一様な媒質どうしが隣接し合う状況でのマクスウェル方程式の境界値問題として説明されるのが普通である。特に境界が平面の場合はフレネル反射と呼ばれ, その結果は以下のようになる：
 
 $r_{H}=-\frac{Z_{1}\cos\theta_{2}-Z_{2}\cos\theta_{1}}{Z_{1}\cos\theta_{2}+Z_{2}\cos\theta_{1}}$
 
@@ -370,9 +370,22 @@ $Z$はインピーダンスで, 次式で定義される:
 
 $Z:=\sqrt{\mu/\epsilon}$
 
-ここで, 透磁率が媒質1, 2でほぼ変わらないなら, $Z_1/Z_2\fallingdotseq=\sqrt{\epsilon2/\epsilon1}=n_2/n_1$となる。特に, 
+ここで, 媒質1, 2が非磁性体なら $\mu_1\fallingdotseq \mu_2 \fallingdotseq \mu_0$とみなせるので, $Z_1/Z_2\fallingdotseq=\sqrt{\epsilon2/\epsilon1}=n_2/n_1$となる。この $n_\text{r}:=n_2/n_1$は相対屈折率と呼ばれる。それを使うと上の式は次のようになる:
 
-ここで, $Z_{1}=Z_{2}$のとき, すなわち両媒質でインピーダンスが等しい時は, いずれの反射係数も0となり, 物体は見えない（透明）になる。この事実は
+$r_{H}=-\frac{n_\text{r}\cos\theta_{2}-\cos\theta_{1}}{n_\text{r}\cos\theta_{2}+\cos\theta_{1}}$
+
+$r_{V}=\frac{n_\text{r}\cos\theta_{1}-\cos\theta_{2}}{n_\text{r}\cos\theta_{1}+\cos\theta_{2}}$
+
+ここで$n_\text{r}=1$の場合, スネルの法則から$\theta_{1}=\theta_{2}$となり, 上の式はともに0になる。つまり反射は消える。そのため「屈折率が等しい媒質同士の境界では反射が起きない」とよく言われる。しかしこれは「非磁性体」の仮定のもとでの話である。厳密には, 「インピーダンスが等しい媒質同士」である。
+
+さて, 相対屈折率$n$は, 非磁性体という条件では比誘電率 $\epsilon_\text{r}$の平方根にほぼ等しい。これを使って上の式を変形すると次式が得られる:
+
+$r_{H}=\frac{\cos\theta_{1}-\sqrt{\epsilon_\text{r}-\sin^{2}\theta_{1}}}{\cos\theta_{1}+\sqrt{\epsilon_\text{r}-\sin^{2}\theta_{1}}}$
+
+$r_{V}=-\frac{\sqrt{\epsilon_\text{r}-\sin^{2}\theta_{1}}-\epsilon_\text{r}\cos\theta_{1}}{\sqrt{\epsilon_\text{r}-\sin^{2}\theta_{1}}+\epsilon_\text{r}\cos\theta_{1}}$
+
+これをグラフに描くと以下のようになる：
+（図）
 
 ## 分散
 
